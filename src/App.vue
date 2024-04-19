@@ -9,8 +9,8 @@
           <span class="self-center text-lg text-[#4d6ee6] font-semibold whitespace-nowrap fadein-bot hover:text-sky-400">MR.Herdian</span>
         </button>
         <div class="flex md:order-2 fadein-bot">
-          <a href="https://www.instagram.com/mr.herdian1/" target="_blank" rel="noopener noreferrer"><img class="w-9 rounded-full mr-4" src="https://seeklogo.com/images/I/instagram-new-2016-logo-D9D42A0AD4-seeklogo.com.png" alt="instagram"></a>
-          <a href="https://www.instagram.com/mr.herdian1/" target="_blank" rel="noopener noreferrer"><h3 class="mt-1 text-[#4d6ee6]">ORDER NOW</h3></a>
+          <a href="https://ig.me/m/mr.herdian1" target="_blank" rel="noopener noreferrer"><img class="w-9 rounded-full mr-4" src="https://seeklogo.com/images/I/instagram-new-2016-logo-D9D42A0AD4-seeklogo.com.png" alt="instagram"></a>
+          <a href="https://ig.me/m/mr.herdian1" target="_blank" rel="noopener noreferrer"><h3 class="mt-1 text-[#4d6ee6]">ORDER NOW</h3></a>
           
         </div>
         <div class="hidden md:flex justify-between items-center w-full md:w-auto md:order-1" id="mobile-menu-3">
